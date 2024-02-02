@@ -4,6 +4,8 @@ Just a Label - PCF Control for Model Driven Power App Forms
 ## Background
 Have you ever wanted to place instructions on a model driven form? That is, you simply want a label with text placed on a form. This sample PCF conrol does that. Simply add to the form, set the text you want to display, and optionally add html style attributes to it.
 
+<img src="https://raw.githubusercontent.com/m-odonovan/JustALabelPCF/main/images/JustALabel.gif" title="Just a Label PCF Control" />
+
 ## How to use
 
 - Managed and unmanaged solution files provided, download the one you need, and install into your environment
