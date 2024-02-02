@@ -1,4 +1,4 @@
-# JustALabelPCF
+# Just a Label PCF Control
 Just a Label - PCF Control for Model Driven Power App Forms
 
 ## Background
